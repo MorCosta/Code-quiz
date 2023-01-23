@@ -12,7 +12,7 @@ Once on the page, the user can click on the Start Quiz button. By doing so, the 
 with multiple choices. The quiz will display the word "correct"or "incorrect" based on the answer the user picked. For every wrong answer, 10 seconds will be detracted by
 the timer. The game ends when the user answered all the questions, or when the timer reaches 0.
 Once the game is over, the users can leave their initials, and these will be displayed with their scores on another page. The users will also have the option to clear the highscore.
-![alt text](/images/Quiz.png)
-![alt text](/images/Highscores.png)
+![alt text](Assets/Images/Quiz.png)
+![alt text](Assets/Images/Highscores.png)
 
 
